@@ -1,6 +1,8 @@
-Felipe es un poco Alto.
+﻿Felipe es un poco Alto.
 
 Tiene 30 años y nació en Méxicalpan,
 viviendo donde caiga.
 
 Le gusta mucho el mole verde.
+
+Hoy hablaremos de su vida.
