@@ -38,3 +38,10 @@ body
 {
     font-size: 25px;
 }
+
+#pie{
+    color: lightslategrey;
+    text-align: right;
+    opacity: 0.5;
+    padding: 3mm;
+}
