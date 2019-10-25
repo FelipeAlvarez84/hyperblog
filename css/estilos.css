@@ -51,4 +51,15 @@ body
 {
   background: white;
   padding: 1em;
+<<<<<<< HEAD
 }
+=======
+}
+
+#pie{
+    color: lightslategrey;
+    text-align: right;
+    opacity: 0.5;
+    padding: 3mm;
+}
+>>>>>>> footer
