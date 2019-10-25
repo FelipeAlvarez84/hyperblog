@@ -1,6 +1,6 @@
 body
 {
-    background: silver;
+    background: lightsteelblue;
     color: #333;
     text-align: center;
     font-family: "Arial";
@@ -15,8 +15,8 @@ body
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
+    margin: 2;
+    padding: 0.6em;
 }
 
 #cabecera #logo
@@ -34,11 +34,11 @@ body
 
 #container
 {
-    background: lightskyblue;
+    background: black;
     width: 70%;
-    padding: 1em;
+    padding: 0.5em;
     text-align: left;
-    border: 5px solid midnightblue; 
+    border: 3px solid beige; 
     margin: 20 auto;
 }
 
